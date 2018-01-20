@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Bereket Ghebremedhin</title>
+    <link type="application/atom+xml" rel="self" href="http://localhost:3000/atom.xml"/>
+  
+  <link href="http://localhost:3000/"/>
+  <id>http://localhost:3000/</id>
+  <updated>2018-01-19T10:48:59Z</updated>
+  <author>
+    <name>Bereket Ghebremedhin</name>
+    <email>bereket6725@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2018 Bereket Ghebremedhin. All rights reserved.</rights>
+  
+
+</feed>
